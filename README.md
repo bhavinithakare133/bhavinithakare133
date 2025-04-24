@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bhavinithakare133
-- 👀 I’m interested in MERN 
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in Frontend developer
 - 📫 How to reach me bhavinithakare133@gmail.com
 
 <!---
